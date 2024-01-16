@@ -1,0 +1,51 @@
+[
+  
+    {
+        "name" : "Raiden mei Herrscher of Thunder Canva Wall Art ",
+        "category" :"Artist: Tomas Vieira",
+        "price" : "143.00",
+        "imgSrc" : "q1 (1).png"
+    },
+    {
+        "name" : "Fu Hua Canva Wall Art",
+        "category" : "Artist: Raiko",
+        "price" : "145.00",
+        "imgSrc" : "q1 (2).png"
+    },
+    {
+        "name" : "Seele Vollerei Canva Wall Art",
+        "category" : "Artist: Abhijeet Bharathan ",
+        "price" : "75.80",
+        "imgSrc" : "q1 (3).png"
+    },
+    {
+        "name" : "Queen Kiana Kaslana Canva Wall Art ",
+        "category" : "Artist:_(dnrn8537) ",
+        "price" : "159.00",
+        "imgSrc" : "q1 (4).png"
+    },
+    {
+        "name" : "Azur lane Bismarck Canva Wall Art",
+        "category" : "Artist: Raiko",
+        "price" : "100.50",
+        "imgSrc" : "q1 (5).png"
+    },
+    {
+        "name" : "Azur lane Bismarck Canva Wall Art 2",
+        "category" : "Artist: Raiko",
+        "price" : "187.45",
+        "imgSrc" : "q1 (6).png"
+    },
+    {
+        "name" : "Ninguang Genshin Impact Canva Wall Art ",
+        "category" : "Artist: Sean Tay",
+        "price" : "322.50",
+        "imgSrc" : "q1 (7).png"
+    },
+    {
+        "name" : "Honkai Impact Wallpaper Canva Wall Art",
+        "category" : "Artist: By Honkai Impact",
+        "price" : "288.99",
+        "imgSrc" : "q1 (8).png"
+    }
+]
